@@ -2273,3 +2273,10 @@ HEAD is now at f0f058f update code in projects
 fatal: couldn't find remote ref main
 fatal: couldn't find remote ref main
 fatal: couldn't find remote ref main
+/bin/sh: 1: /home/user/2nd-app/update.sh: not found
+/bin/sh: 1: /home/user/2nd-app/update.sh: not found
+/bin/sh: 1: /home/user/2nd-app/update.sh: not found
+/bin/sh: 1: /home/user/2nd-app/update.sh: not found
+/bin/sh: 1: /home/user/2nd-app/update.sh: not found
+/bin/sh: 1: /home/user/2nd-app/update.sh: not found
+/bin/sh: 1: /home/user/2nd-app/update.sh: not found
